@@ -1,5 +1,5 @@
 '''
-MD5 checsum checker for large file
+MD5 checksum checker for large file
 22.07.2020
 Author: Savchenko O.V.
 Company Makerobot
